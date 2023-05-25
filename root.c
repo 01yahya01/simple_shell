@@ -1,3 +1,9 @@
+/*
+ * File: root.c
+ * Auth: Yahya Laamari
+ *       Salma Bensaikouk
+ */
+
 #include "root.h"
 #define INFO_INIT \
 {NULL, NULL, NULL, 0, 0, 0, 0, NULL, NULL, NULL, NULL, NULL, \
