@@ -1,10 +1,10 @@
 /*
  * File: builtemul_a.c
  * Auth: Yahya Laamari
- *         Salma Bensaikouk
+ *       Salma Bensaikouk
  */
 
-#include "root.h"
+#include "shell.h"
 
 /**
  * mexit - exits shell

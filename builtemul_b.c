@@ -1,10 +1,10 @@
 /*
  * File: builtemul_b.c
  * Auth: Yahya Laamari
- *         Salma Bensaikouk
+ *       Salma Bensaikouk
  */
 
-#include "root.h"
+#include "shell.h"
 
 /**
  * mhist - displays history list

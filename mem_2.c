@@ -4,7 +4,7 @@
  *       Salma Bensaikouk
  */
 
-#include "root.h"
+#include "shell.h"
 
 /**
  * _free - frees pointer and NULLs the address

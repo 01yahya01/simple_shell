@@ -4,7 +4,7 @@
  *       Salma Bensaikouk
  */
 
-#include "root.h"
+#include "shell.h"
 
 /**
  * gethist - gets history file

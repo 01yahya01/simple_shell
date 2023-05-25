@@ -4,7 +4,7 @@
  *       Salma Bensaikouk
  */
 
-#include "root.h"
+#include "shell.h"
 
 /**
  * ischain - test if current char in buffer is chain delimeter

@@ -1,5 +1,5 @@
-#ifndef ROOT_H
-#define ROOT_H
+#ifndef SHELL_H
+#define SHELL_H
 
 #define FILE_HIS ".simple_shell_history"
 #define MAX_HIS 5000
